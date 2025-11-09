@@ -35,7 +35,7 @@ You're going to make our Notion documentation accessible to Claude AI. We'll do 
          "command": "npx",
          "args": ["-y", "@notionhq/notion-mcp-server"],
          "env": {
-           "NOTION_API_TOKEN": "your-token-here"
+           "NOTION_TOKEN": "your-token-here"
          }
        }
      }

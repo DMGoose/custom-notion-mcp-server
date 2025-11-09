@@ -1,2 +1,25 @@
-# node modules
+# Dependencies
 node_modules/
+
+# Build output
+build/
+
+# Environment files
+.env
+.env.local
+
+# Configuration files (may contain sensitive IDs)
+# Uncomment if your config.json contains sensitive information
+# config.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

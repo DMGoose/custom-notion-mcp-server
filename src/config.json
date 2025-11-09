@@ -1,0 +1,13 @@
+{
+  "filtering": {
+    "excludeKeywords": ["deprecated", "depricated", "archive"],
+    "excludePageIds": [],
+    "excludeDatabaseIds": [],
+    "includeOnlyPageIds": [],
+    "includeOnlyDatabaseIds": []
+  },
+  "caching": {
+    "enabled": true,
+    "ttlMinutes": 5
+  }
+}
